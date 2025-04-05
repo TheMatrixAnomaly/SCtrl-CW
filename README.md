@@ -8,6 +8,8 @@ Exercise 1: Run ex1_plots.ipynb file. It calls exercise1.py file.
             but you can see the plot for each cell;
             each cell takes around 3 minutes to run.
 
+Excercise 2,3 : Corresponding notebook : SCtrl CW V1 (1).ipynb : SoftLQR , Trajectory Simulations, Critic-only ;
+Run all the cells in the notebook. Input parameters may be specified/modified in the example usages already provided.
 
 
 
