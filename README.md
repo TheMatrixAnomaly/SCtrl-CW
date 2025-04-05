@@ -1,4 +1,4 @@
-# SCtrl
+
 To reproduce the plots in the report, do:
 (Note that the plots will look slightly different everytime you run, but still they will have the similar trend.)
 
